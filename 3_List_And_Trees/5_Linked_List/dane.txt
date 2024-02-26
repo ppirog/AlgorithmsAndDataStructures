@@ -1,0 +1,19 @@
+7
+1
+John Travolta
+4000
+1
+John Cleese
+3000
+1
+John Cusack
+400
+2
+399
+2
+400
+1
+John Malkovich
+30
+2
+40

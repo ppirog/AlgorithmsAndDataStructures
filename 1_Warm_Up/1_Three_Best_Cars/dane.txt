@@ -1,0 +1,11 @@
+5
+Opel Antara
+1234.65 12
+Toyota Auris
+3509.57 20
+Citroen C5
+9990.8 40
+Kia Sportage
+99999.12 400
+Fiat Panda
+3525.74 33

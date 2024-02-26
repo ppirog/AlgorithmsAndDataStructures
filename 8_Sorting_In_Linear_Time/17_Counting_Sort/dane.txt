@@ -1,0 +1,7 @@
+6
+kompot 10
+sledzik 30
+karpik 35
+makowiec 22
+pierogi 34
+oplatek 5
