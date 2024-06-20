@@ -1,0 +1,11 @@
+5
+Okruszek
+Tester
+Interfejs
+Agent
+Scyzoryk
+4
+r Okruszek Interfejs
+a Kontakt
+m Kontakt 2
+m Interfejs -1
