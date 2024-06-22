@@ -1,4 +1,4 @@
-The algorithms were written as part of the Algorithms and Data Structures class at UMCS. 
+This 28 algorithms were written as part of the Algorithms and Data Structures class at UMCS. 
 
 All of those provided had to pass tests by an algorithm checker.   
 Algorithms have been checked for correctness of results, speed of operation and memory consumption.
@@ -9,7 +9,7 @@ Example output:
 
 Algorithmic problems solved required implementing solutions from areas such as:
 
-### algorithms and data structures 1:
+### (17 algorithms) algorithms and data structures 1:
 - sorting, 
 - lists,
 - trees,
@@ -22,7 +22,7 @@ Algorithmic problems solved required implementing solutions from areas such as:
 - backtracking
 
 
-### algorithms and data structures 2 (faculty): 
+### (11 algorithms) algorithms and data structures 2 (faculty): 
 #### - graphs
 - dijkstra
 - prime
